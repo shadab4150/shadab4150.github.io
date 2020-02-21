@@ -2,7 +2,7 @@
 layout: post
 title: KannadNet Detecting Numbers Written In Kannada Numerical System
 subtitle: Detecting Numbers Written In Kannada Numerical System 
-bigimg: "/img/100%20Beautiful%20Ultra%20HD%204K%20Wallpapers%20(19).jpg"
+bigimg: https://i.ibb.co/yWcPzNd/number123.png
 tags: [CNN, Kannda]
 ---
 
