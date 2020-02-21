@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to know me
+subtitle: If you want to know me;
 ---
 
 <center><h2>Myself shadab sayeed.</h2></center>
