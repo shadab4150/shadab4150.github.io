@@ -1,3 +1,11 @@
+---
+layout: post
+title: Student records analysis and Predicting Final score
+subtitle: In this project I tried building a model which can predict a students grades.
+bigimg: https://www.smartdatacollective.com/wp-content/uploads/2018/11/Machine-learning-768x512.jpg
+tags: [Student,ML]
+---
+
 # Student records analysis and Predicting Final score
 
 * In this project I tried building a model which can predict a students grades.
