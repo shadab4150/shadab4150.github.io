@@ -1,3 +1,13 @@
+---
+layout: post
+title: Disaster Post Classification on Social media.
+subtitle: natural language model has been trained and developed to classify post as fake or real regarding natural disasters.
+bigimg: "/img/aaron-burden-Qy-CBKUg_X8-unsplash.jpg"
+tags: [NLP, Classifier]
+---
+
+
+
 # Disaster Post Classification on Social media.
 
 * In this repo a natural language model has been trained and developed to classify post as fake or real regarding natural disasters
