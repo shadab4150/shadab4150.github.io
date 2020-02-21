@@ -23,6 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Projects: "https://github.com/shadab4150"
+    - Kaggle: "https://www.kaggle.com/ianmoone0617/competitions"
+    - Hackerrank: "https://www.hackerrank.com/shadabsayeedxxx"
+    - Hackerearth: "https://www.hackerearth.com/@Ianmoone0617"
   Author's home: "https://shadab4150.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
