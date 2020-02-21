@@ -1,15 +1,89 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
-tags: [books, test]
+title: Hindi News Language Model and Hindi News Classifier : indic NLP
+subtitle: indic NLP
+bigimg: http://www.global-engage.com/wp-content/uploads/2018/01/Deep-Learning-blog.png
+tags: [NLP, Hindi]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+# Hindi News Language Model and Hindi News Classifier : indic NLP
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+* [**Notebook**](https://github.com/shadab4150/Hindi-News-Language-Model-and-Classification-indic-NLP/blob/master/Hindi_News_Language_Model_and_Classification_indic_NLP_v2.ipynb)
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+* In this project I trained Hindi Language Model with BBC Hindi News Dataset and then Built a Hindi News Classifier.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+#### Dataset:
+
+* [**BBC Hindi**](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1)
+
+### Hindi Language Model:
+
+* Architecture : **AWD-LSTM**  
+* Learn more about **AWD-LSTM** Here **--->** [ASGD Weight-Dropped LSTM](https://medium.com/ai%C2%B3-theory-practice-business/awd-lstm-6b2744e809c5)
+
+<center><h3> LSTM cell structure </h3></center>
+
+![kd](https://miro.medium.com/max/1023/1*Mr9zEA72R-LdAHtnXyZ0Eg.png)
+
+* **Model Summary :**
+
+![kd](https://i.ibb.co/yqwzj9w/awd-lstm.jpg)
+
+* **DataBlock :**
+
+![kd](https://i.ibb.co/H4QcsvV/data-show.jpg)
+
+* Used **Mixed Precision training** to decrease up the training time.
+
+**Achieved a final accuracy of 30% for the Hindi Language Model**
+
+![kd](https://i.ibb.co/QpqqbjG/lm.jpg)
+
+### Completing sentences using Hindi Language Model
+
+![kd](https://i.ibb.co/NKTyPnX/bbc-saudi.jpg)
+
+![kd](https://i.ibb.co/tqP6yDZ/bbc-london.jpg)
+
+## Hindi News Classifier
+
+* **Hindi News Dataset :**
+
+* Classifier Data Block
+
+![kd](https://i.ibb.co/L68bX8P/hind-classifier.jpg)
+
+* **News categories**
+* **'business' , 'china' , 'entertainment' , 'india' , 'institutional' , 'international' , 'learningenglish'**
+* **'multimedia' , 'news' , 'pakistan' , 'science' , 'social' , 'southasia' , 'sport'**
+
+* Metrics I choose for the News dataset was a **f1_score**
+> average = **macro**
+
+* Because there was a class imbalance in the news dataset
+
+#### Final f_beta score of the classifier was 0.789
+![kd](https://i.ibb.co/hXGTsZg/class-final.jpg)
+
+* **Top losses :**
+
+![kd](https://i.ibb.co/kgWTP0N/top-losses.jpg)
+
+
+## System Requirements
+
+```
+Python v3.6.x
+fastai v1
+Pytorch v1.2.x
+Numpy
+Pandas
+tqdm (Progress bar)
+Jupyter Notebook (Visualisations)
+
+```
+
+## Shoutout to
+
+* Practical Deep Learning for Coders **MOOC** by team [**fast.ai**](https://www.fast.ai/)
+
