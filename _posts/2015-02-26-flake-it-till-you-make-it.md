@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hindi News Language Model and Hindi News Classifier : indic NLP
+title: Hindi News Language Model and Hindi News Classifier 
 subtitle: indic NLP
 bigimg: http://www.global-engage.com/wp-content/uploads/2018/01/Deep-Learning-blog.png
 tags: [NLP, Hindi]
