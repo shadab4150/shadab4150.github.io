@@ -1,3 +1,11 @@
+---
+layout: post
+title: Modern Football From perspective of data science
+subtitle: I have combined my love for football and data science to create exploratory analysis of the football  dataset found on kaggle using Python.
+bigimg: https://www.mobilenewsmag.com/wp-content/uploads/2019/01/1_highres_balljames_scisports-696x462.png
+tags: [Football,ML]
+---
+
 # Modern Football From perspective of data science
 
 ## A Brief Project Report --->
