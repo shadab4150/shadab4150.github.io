@@ -1,3 +1,12 @@
+---
+layout: post
+title: Explorative Data Analysis of coronavirus Dataset obatained from WHO
+subtitle: Coronavirus EDA
+bigimg: "/img/chris-barbalis-vMTjgtt6mr8-unsplash.jpg"
+tags: [EDA, Coronavirus]
+---
+
+
 #  Explorative Data Analysis of coronavirus Dataset obatained from **WHO**
 
 ## Context
