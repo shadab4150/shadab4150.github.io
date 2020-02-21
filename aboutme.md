@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to know me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+ <center><h1>About</h1></center>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+<center><h2>Myself shadab sayeed.</h2></center>
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<center><img src="https://i.ibb.co/JCscwsK/imageedit-1-9987689091.png" width="310" height="300"></center>
+
+
+I am a final year undergraduate student pursuing Bachelor of Technology in **Information Technology**. 
+
+Skilled in Design and Analysis of Algorithms, Data Analysis, Data Visualization, Deep Learning and Natural Language Processing. 
+
+* Here is my linkedin [**profile**](https://www.linkedin.com/in/shadab-sayeed/)
+
+
