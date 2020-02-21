@@ -1,3 +1,12 @@
+---
+layout: post
+title: Deep learning model to classify sneakers of adidas, nike and puma.
+subtitle: SneakerNet
+bigimg: https://previews.123rf.com/images/cnuisin/cnuisin1802/cnuisin180200009/94715744-sneaker-shoe-seamless-pattern-canvas-doodle-vector-isolated-wallpaper-background-red-blue.jpg
+tags: [CNN, Sneakers]
+---
+
+
 <center><h1> SneakerNet V1</h1></center>
 <center><img src='https://i.ibb.co/0f6Hnz5/logo.jpg'></center>
 
