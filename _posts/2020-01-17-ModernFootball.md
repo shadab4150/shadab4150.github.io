@@ -6,7 +6,6 @@ bigimg: https://www.mobilenewsmag.com/wp-content/uploads/2019/01/1_highres_ballj
 tags: [Football,ML]
 ---
 
-# Modern Football From perspective of data science
 
 ## A Brief Project Report --->
 
