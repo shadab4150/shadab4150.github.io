@@ -6,9 +6,8 @@ bigimg: https://www.smartdatacollective.com/wp-content/uploads/2018/11/Machine-l
 tags: [Student,ML]
 ---
 
-# Student records analysis and Predicting Final score
 
-* In this project I tried building a model which can predict a students grades.
+#### In this project I tried building a model which can predict a students grades.
 
 * Based on fators such as alcohol cosumption, internet use, romantic life, parental status, family size.
 
