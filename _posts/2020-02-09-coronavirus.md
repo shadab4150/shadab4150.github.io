@@ -6,9 +6,6 @@ bigimg: "/img/chris-barbalis-vMTjgtt6mr8-unsplash.jpg"
 tags: [EDA, Coronavirus]
 ---
 
-
-#  Explorative Data Analysis of coronavirus Dataset obatained from **WHO**
-
 ## Context
 
 
