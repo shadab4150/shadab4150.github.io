@@ -7,8 +7,6 @@ tags: [Tabular, ML]
 ---
 
 
-# NFL ML model to predict yards gained
-
 * In the National Football League (NFL), roughly a third of teams’ offensive yardage comes from run plays.
 
 * In this project, I tried to develop a model to predict how many yards a team will gain on given rushing plays as they happen.
