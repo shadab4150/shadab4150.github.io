@@ -2,7 +2,7 @@
 layout: post
 title: Disaster Post Classification on Social media.
 subtitle: natural language model has been trained and developed to classify post as fake or real regarding natural disasters.
-bigimg: "/img/38e9.png"
+bigimg: "/img/nlp.jpg"
 tags: [NLP, Classifier]
 ---
 
