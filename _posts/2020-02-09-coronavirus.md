@@ -2,7 +2,7 @@
 layout: post
 title: Explorative Data Analysis of coronavirus Dataset obatained from WHO
 subtitle: Coronavirus EDA
-bigimg: "/img/chris-barbalis-vMTjgtt6mr8-unsplash.jpg"
+bigimg: "/img/5.jpg"
 tags: [EDA, Coronavirus]
 ---
 
