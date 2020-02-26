@@ -7,7 +7,7 @@ subtitle: If you want to know me;
 <center><h2>Myself shadab sayeed.</h2></center>
 
 
-<center><img src="https://i.ibb.co/JCscwsK/imageedit-1-9987689091.png" width="310" height="300"></center>
+<center><img src="https://i.ibb.co/JCscwsK/imageedit-1-9987689091.png" width="210" height="200"></center>
 
 
 I am a final year undergraduate student pursuing Bachelor of Technology in **Information Technology**. 
