@@ -49,6 +49,16 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 <img src="/img/count.jpg">
 * Metrics I choose was macro average f1_score and accuracy.
 * And defined two model one using ReLU activation and the using Mish Activation. Both model summary is given below:
-![**Mish Model**](https://i.ibb.co/L6NXBjC/modelmish.jpg)
+
+<center><h4>Model with Mish.</h4></center>
+
+![kd](https://i.ibb.co/L6NXBjC/modelmish.jpg)
+![kd](https://i.ibb.co/L8Zj94f/modelMsh.jpg)
+
+
+<center><h4>Model with ReLU.</h4></center>
+
+![kd](https://i.ibb.co/6Y5XXJn/model-relu.jpg)
+![kd](https://i.ibb.co/xL4q3XQ/modelRel.jpg)
 
 
