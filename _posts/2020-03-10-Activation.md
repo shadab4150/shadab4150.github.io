@@ -31,13 +31,18 @@ A new paper by [**Diganta Misra**](https://github.com/digantamisra98/Mish) title
 
 <center><img src="https://i.ibb.co/TK0LPcD/mishmath.jpg"></center>
 
+
 <center>Visually, it looks like the following:</center>
 
 
 <center><img src="https://miro.medium.com/max/512/1*S9xYzBLjOd4JrrGC-U2Zhg.jpeg"></center>
 
+
 * Here is graph of six different activation functions:
+
+
 <center><img src="/img/activation fucntion.png"></center>
+
 
 I downloaded the pytorch implementation of **Mish** activation function of Diganta Mishra's from a kaggle user [**Iafoos**](https://www.kaggle.com/iafoss/mish-activation/) to compare it with **ReLU** on classification task of classic MNIST dataset.
 * Found true that is performs better.
@@ -48,13 +53,17 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 * MNIST dataset has an unevenly distributed set of images.
 <img src="/img/count.jpg">
 * Metrics I choose was macro average f1_score and accuracy.
-* And defined two model one using ReLU activation and the using Mish Activation. Both model summary is given below:
+* And defined two model one using ReLU activation and the other one using Mish Activation. Both models summary is given below:
 
 <center><h4>Model with Mish.</h4></center>
 
+
 ![kd](https://i.ibb.co/L6NXBjC/modelmish.jpg)
 
+
 <center><h4>Summary of Model with Mish.</h4></center>
+
+
 ![kd](https://i.ibb.co/L8Zj94f/modelMsh.jpg)
 
 
@@ -69,8 +78,10 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 
 ![kd](https://i.ibb.co/xL4q3XQ/modelRel.jpg)
 
+
 I ran both the models with a learning rate of **1e-1** for 6 epochs.
 Below are the results:
+
 
 <center><h4>Six epochs for Model with ReLU Activation function.</h4></center>
 
@@ -83,13 +94,15 @@ Below are the results:
 
 <center><img src="https://i.ibb.co/McKPb4Q/learn-mish1313.jpg"></center>
 
+
 #### As one can see Model with Mish activation function gives better F1_score as well accuracy.
 
 
 #### Credits and Refrences:
 ```
-https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7
 https://github.com/digantamisra98/Mish
+https://www.kaggle.com/iafoss/mish-activation/
+https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7
 ```
 #### Shoutout to:
 * Fast.ai team for there fast.ai easy to use software to test model swiftly
