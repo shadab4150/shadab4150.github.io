@@ -24,6 +24,14 @@ ReLU is linear (identity) for all positive values, and zero for all negative val
 * Since ReLU is zero for all negative inputs, it’s likely for any given unit to not activate at all.
 
 
-*  Mish is Self Regularized Non-Monotonic Activation Function
+##  Mish is Self Regularized Non-Monotonic Activation Function
+
+A new paper by Diganta Misra titled **Mish: A Self Regularized Non-Monotonic Neural Activation Function** introduces the AI world to a new deep learning activation function that shows improvements over both Swish (+.494%) and ReLU (+ 1.671%) on final accuracy.
+* It is modified verion of swish activation function. Mathematically, it is defined as:
+
+<center><img src="https://i.ibb.co/TK0LPcD/mishmath.jpg"></center>
+
+<center>Visually, it looks like the following:</center>
 
 
+<center><img src="https://miro.medium.com/max/512/1*S9xYzBLjOd4JrrGC-U2Zhg.jpeg"></center>
