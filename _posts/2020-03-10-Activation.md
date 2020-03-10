@@ -3,7 +3,7 @@ layout: post
 title: Comparing activation function ReLU vs Mish
 subtitle: Comparing ReLU vs Mish activation function on classification accuracy of MNIST dataset. 
 bigimg: "/img/mish.jpg"
-tags: [CNN,Mish,vision]
+tags: [CNN,Mish,ReLU]
 ---
 
 # Comparing activation function ReLU vs Mish
