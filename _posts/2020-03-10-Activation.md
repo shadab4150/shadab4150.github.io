@@ -39,7 +39,14 @@ A new paper by [**Diganta Misra**](https://github.com/digantamisra98/Mish) title
 * Here is graph of six different activation functions:
 <center><img src="/img/activation fucntion.png"></center>
 
-I downloaded the pytorch implementation of Mish activation function of Diganta Mishra's from a kaggle user [**Iafoos**](https://www.kaggle.com/iafoss/mish-activation/)
+I downloaded the pytorch implementation of **Mish** activation function of Diganta Mishra's from a kaggle user [**Iafoos**](https://www.kaggle.com/iafoss/mish-activation/) to compare it with **ReLU** on classification task of classic MNIST dataset.
+* Found true that is performs better.
+* But one of its down side is it's computationally expensive compared to **ReLU** which just takes **max(0,x)**.
+
+### Below are my findings and the project notebook:
+
+* MNIST dataset has an unevenly distributed set of images.
+<img src="/img/count.jpg">
 
 
 
