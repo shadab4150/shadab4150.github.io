@@ -6,6 +6,19 @@ bigimg: "/img/msh1.jpg"
 tags: [CNN,Mish,ReLU]
 ---
 
+# Activation functions:
+
+* To put in simple terms, an artificial neuron calculates the **weighted sum**  of its inputs and adds a bias, as shown in the figure below by the net input.
+
+
+<center><img src="https://www.geeksforgeeks.org/wp-content/uploads/33-1-1-660x306.png"></center>
+
+* Now the value of **net input** can be any anything from **-inf** to **+inf**. The neuron doesn’t really know how to bound to value and thus is not able to decide the firing pattern. Thus the activation function is an important part of an artificial neural network. They **basically decide whether a neuron should be activated or not.**
+
+* The activation function is a non-linear transformation that we do over the input before sending it to the next layer of neurons or finalizing it as output.
+
+
+
 # Comparing activation function ReLU vs Mish
 
 ##  **ReLU** ( Rectified Linear Unit )
