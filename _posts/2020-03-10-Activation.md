@@ -36,8 +36,10 @@ A new paper by [**Diganta Misra**](https://github.com/digantamisra98/Mish) title
 
 <center><img src="https://miro.medium.com/max/512/1*S9xYzBLjOd4JrrGC-U2Zhg.jpeg"></center>
 
-* Here is graph of different 6 different activation functions:
+* Here is graph of six different activation functions:
 <center><img src="/img/activation fucntion.png"></center>
+
+I downloaded the pytorch implementation of Mish activation function of Diganta Mishra's from a kaggle user [**Iafoos**](https://www.kaggle.com/iafoss/mish-activation/)
 
 
 
