@@ -47,6 +47,8 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 
 * MNIST dataset has an unevenly distributed set of images.
 <img src="/img/count.jpg">
-
+* Metrics I choose was macro average f1_score and accuracy.
+* And defined two model one using ReLU activation and the using Mish Activation. Both model summary is given below:
+![**Mish Model**](https://i.ibb.co/L6NXBjC/modelmish.jpg)
 
 
