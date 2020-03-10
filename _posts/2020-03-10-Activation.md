@@ -53,12 +53,17 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 <center><h4>Model with Mish.</h4></center>
 
 ![kd](https://i.ibb.co/L6NXBjC/modelmish.jpg)
+
+<center><h4>Summary of Model with Mish.</h4></center>
 ![kd](https://i.ibb.co/L8Zj94f/modelMsh.jpg)
 
 
 <center><h4>Model with ReLU.</h4></center>
 
 ![kd](https://i.ibb.co/6Y5XXJn/model-relu.jpg)
+
+<center><h4>Summary of Model with ReLU.</h4></center>
+
 ![kd](https://i.ibb.co/xL4q3XQ/modelRel.jpg)
 
 
