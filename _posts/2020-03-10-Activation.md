@@ -119,6 +119,7 @@ Below are the results:
 https://github.com/digantamisra98/Mish
 https://www.kaggle.com/iafoss/mish-activation/
 https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7
+https://www.geeksforgeeks.org/activation-functions/
 ```
 #### Shoutout to:
 * Fast.ai team for there fast.ai easy to use software to test model swiftly
