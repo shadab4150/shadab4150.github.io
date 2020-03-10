@@ -69,4 +69,22 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 
 ![kd](https://i.ibb.co/xL4q3XQ/modelRel.jpg)
 
+I ran both the models with a learning rate of **1e-1** for 6 epochs.
+Below are the results:
+
+<center><h4>Six epochs for Model with ReLU Activation function.</h4></center>
+
+
+<center><img src="https://i.ibb.co/sVzb77s/mishlearn.jpg"></center>
+
+
+<center><h4>Six epochs for Model with Mish Activation function.</h4></center>
+
+
+<center><img src="https://i.ibb.co/McKPb4Q/learn-mish1313.jpg"></center>
+
+#### As one can see Model with Mish activation function gives better F1_score as well accuracy.
+
+
+
 
