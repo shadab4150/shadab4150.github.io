@@ -43,7 +43,7 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 * Found true that is performs better.
 * But one of its down side is it's computationally expensive compared to **ReLU** which just takes **max(0,x)**.
 
-### Below are my findings and the project notebook:
+## Below are my findings and the Project [**Notebook:**](https://github.com/shadab4150/Deep-Learning-Classifiers/blob/master/comparing_activation_function_ReLU_vs_Mish.ipynb)
 
 * MNIST dataset has an unevenly distributed set of images.
 <img src="/img/count.jpg">
@@ -86,5 +86,12 @@ Below are the results:
 #### As one can see Model with Mish activation function gives better F1_score as well accuracy.
 
 
+#### Credits and Refrences:
+```
+https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7
+https://github.com/digantamisra98/Mish
+```
+#### Shoutout to:
+* Fast.ai team for there fast.ai easy to use software to test model swiftly
 
 
