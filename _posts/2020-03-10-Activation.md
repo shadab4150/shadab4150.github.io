@@ -27,6 +27,8 @@ tags: [CNN,Mish,ReLU]
 
 <center><b>Visually, it looks like the following:</b></center>
 
+-----
+
 
 <center><img src="https://miro.medium.com/max/1026/1*DfMRHwxY1gyyDmrIAd-gjQ.png"></center>
 
