@@ -44,7 +44,7 @@ A new paper by [**Diganta Misra**](https://github.com/digantamisra98/Mish) title
 
 ----
 
-<center><img src="https://i.ibb.co/TK0LPcD/mishmath.jpg"></center>
+<center><img src="https://i.ibb.co/TK0LPcD/mishmath.jpg" border="2"></center>
 
 
 <center><b>Visually, it looks like the following:</b></center>
