@@ -69,7 +69,12 @@ I downloaded the pytorch implementation of **Mish** activation function of Digan
 
 
 * Found true that it performs better.
-* But one of its down side is it's computationally expensive compared to **ReLU** which just takes **max(0,x)**.
+* But one of its down side is it's computationally more expensive compared to **ReLU** which just takes **max(0,x)**.
+* Below is the comparison time of 4 different Activation functions for  7 runs, 100000 loops each. 
+----
+![kd](https://i.ibb.co/SJ6vKSQ/Relu-vs-mish-time1.png)
+
+-----
 
 
 ## Below are my findings and the Project [**Notebook:**](https://github.com/shadab4150/Deep-Learning-Classifiers/blob/master/comparing_activation_function_ReLU_vs_Mish.ipynb)
