@@ -30,6 +30,14 @@ tags: [EDA, Coronavirus]
 
 ![kd](https://i.ibb.co/RN1g5vB/newplot26.png)
 
+
+![kd](https://i.ibb.co/wNR1q1v/indiadownload.png)
+
+
+![kd](https://i.ibb.co/N7nG5Gp/indaibar.png)
+
+
+
 <center><img src="https://i.ibb.co/T8gMJt7/indaisq.png"></center>
 
 
