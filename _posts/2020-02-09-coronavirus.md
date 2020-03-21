@@ -30,7 +30,7 @@ tags: [EDA, Coronavirus]
 
 ![kd](https://i.ibb.co/RN1g5vB/newplot26.png)
 
-<center><img src="https://i.ibb.co/T8gMJt7/indaisq.png" width="1980" height="500"/></center>
+<center><img src="https://i.ibb.co/T8gMJt7/indaisq.png"></center>
 
 
 ### Acknowledgements
