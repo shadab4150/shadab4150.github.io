@@ -22,11 +22,11 @@ tags: [EDA, Coronavirus]
 * This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. 
 * Please note that this is a time series data and so the number of cases on any given day is the cumulative number.
 
-* **The data is available from 20 March, 2020.**
+* **The data is available till 20 March, 2020.**
 
 
 
-### Full EDA analysis Notebook. [**Click Here**](https://github.com/shadab4150/practice_projects/blob/master/corona_India.ipynb)
+### Full EDA analysis Notebook till 20 March, 2020. [**Click Here**](https://github.com/shadab4150/practice_projects/blob/master/corona_India.ipynb)
 
 ![kd](https://i.ibb.co/RN1g5vB/newplot26.png)
 
