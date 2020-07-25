@@ -60,6 +60,8 @@ Usually, in an image with various entities, we want to know which pixel belongs 
 
 ***
 
+### Github Repo : 
+
 * Github Repo : [**Link Here**](https://github.com/shadab4150/Aerial_drone_image_segmentation)
 
 ***
