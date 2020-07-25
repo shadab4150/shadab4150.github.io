@@ -63,12 +63,12 @@ Usually, in an image with various entities, we want to know which pixel belongs 
 ### Data block to feed the model
 * Created using fastai datablocks API.
 ```
-data = (SegmentationItemList.from_folder(path=path/'original_images')  # Location from path
-        .split_by_rand_pct(0.1)                          # Split for train and validation set
-        .label_from_func(get_y_fn, classes=codes)      # Label from a above defined function
-        .transform(get_transforms(), size=src, tfm_y=True)   # If you want to apply any image Transform
-        .databunch(bs=4)                                   # Batch size  please decrese batch size if cuda out of memory
-        .normalize(imagenet_stats))            # Normalise with imagenet stats
+data = (SegmentationItemList.from_folder(path=path/'original_images')  
+        .split_by_rand_pct(0.1)                         
+        .label_from_func(get_y_fn, classes=codes)      
+        .transform(get_transforms(), size=src, tfm_y=True)   
+        .databunch(bs=4)                                   
+        .normalize(imagenet_stats))            
 data.show_batch(rows=3)
 ```
 ***
@@ -110,7 +110,7 @@ learn = unet_learner(data, # DatBunch
 learn.lr_find()
 learn.recoder.plot()
 ```
-![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/blob/master/image_drone/lr_finder.png)
+![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/lr_finder.png)
 
 ```
 callbacks = SaveModelCallback(learn, monitor = 'accuracy_mask', every = 'improvement', name = 'best_model' )
