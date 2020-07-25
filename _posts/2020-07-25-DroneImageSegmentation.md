@@ -1,6 +1,13 @@
-# Aerial_drone_image_segmentation
+---
+layout: post
+title: Aerial Drone Images Semantic Segmentation
+subtitle: A Dynamic unet built on top of an encoder ( pretrained resnet50 ), with a final output of num_classes.
+bigimg: "https://github.com/shadab4150/Aerial_drone_image_segmentation/raw/master/image_drone/drone5.png"
+tags: [unet, dronne , segmentation]
+---
 
 ### Dataset Resource: 
+
 * **https://www.tugraz.at/index.php?id=22387**
 
 ### Dataset Overview
