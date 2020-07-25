@@ -2,7 +2,7 @@
 layout: post
 title: Aerial Drone Images Semantic Segmentation
 subtitle: A Dynamic unet built on top of an encoder ( pretrained resnet50 ), with a final output of num_classes.
-bigimg: "https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/raw/master/image_drone/drone5.png"
+bigimg: "https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/drone5.png"
 tags: [unet, dronne , segmentation]
 ---
 
@@ -21,11 +21,11 @@ The Semantic Drone Dataset focuses on semantic understanding of urban scenes for
 
 ***
 
-![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/blob/master/image_drone/drone1.png)
+![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/drone1.png)
 
-![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/blob/master/image_drone/drone5.png)
+![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/drone5.png)
 
-![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/blob/master/image_drone/drone4.png)
+![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/drone4.png)
 
 ***
 
@@ -72,7 +72,7 @@ data = (SegmentationItemList.from_folder(path=path/'original_images')  # Locatio
 data.show_batch(rows=3)
 ```
 ***
-![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/blob/master/image_drone/data_block_drone.png)
+![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/data_block_drone.png)
 
 ***
 ## Model | unet_learner
@@ -126,4 +126,4 @@ learn.show_results(rows=3, figsize=(12,16))
 
 ```
 
-![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/blob/master/image_drone/results_drone.png)
+![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/results_drone.png)
