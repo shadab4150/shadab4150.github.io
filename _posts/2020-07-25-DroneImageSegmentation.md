@@ -125,5 +125,4 @@ Intial dynamic unet on top of an encoder ( resnet50 pretrained = 'imagenet' ), t
 learn.show_results(rows=3, figsize=(12,16))
 
 ```
-
 ![kd](https://raw.githubusercontent.com/shadab4150/Aerial_drone_image_segmentation/master/image_drone/results_drone.png)
