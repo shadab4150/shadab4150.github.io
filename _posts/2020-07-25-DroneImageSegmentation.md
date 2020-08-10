@@ -120,7 +120,7 @@ learn.recoder.plot()
 
 ```
 callbacks = SaveModelCallback(learn, monitor = 'accuracy_mask', every = 'improvement', name = 'best_model' )
-learn.fit_one_cycle(10, slice(lr), pct_start = 0.8, callbacks = [callbacks] )
+learn.fit_one_cycle(12, slice(lr), pct_start = 0.8, callbacks = [callbacks] )
 ```
 ***
 
