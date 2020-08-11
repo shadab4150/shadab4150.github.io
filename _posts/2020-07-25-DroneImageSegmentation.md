@@ -62,7 +62,7 @@ Usually, in an image with various entities, we want to know which pixel belongs 
 
 ### Github Repo : 
 
-* Github Repo : [**Link Here**](https://github.com/shadab4150/Aerial_drone_image_segmentation/)
+* Github Repo : [**Link Here**](https://github.com/shadab4150/Aerial_drone_image_segmentation/blob/master/Aerial_Drone_semantic_image_segmentation%20_%20Fast/Aerial_Drone_semantic_image_segmentation%20_%20Fast.md)
 
 ***
 
