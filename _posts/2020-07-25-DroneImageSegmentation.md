@@ -16,6 +16,10 @@ tags: [unet, dronne , segmentation]
 The Semantic Drone Dataset focuses on semantic understanding of urban scenes for increasing the safety of autonomous drone flight and landing procedures. The imagery depicts more than 20 houses from nadir (bird's eye) view acquired at an altitude of 5 to 30 meters above ground. A high resolution camera was used to acquire images at a size of 6000x4000px (24Mpx). The training set contains 400 publicly available images.
 
 ***
+| Task | Colab
+|---|---|
+| **`Colab Notebook for Aerial Semantic Segmentation : Running yourself`** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BXoew0VpMxWu1a0RKoV18iqz9SkkfnrI?usp=sharing)
+***
 
 #### Aerial Semantic Segmentation Drone Sample Images with mask
 
@@ -88,7 +92,7 @@ data.show_batch(rows=3)
 
 * This module builds a dynamic U-Net from any backbone **pretrained on ImageNet**, automatically inferring the intermediate sizes.
 
-![kd](https://docs.fast.ai/imgs/u-net-architecture.png)
+![kd](http://deeplearning.net/tutorial/_images/unet.jpg)
 
 * **This is the original U-Net. The difference here is that the left part is a pretrained model.**
 
