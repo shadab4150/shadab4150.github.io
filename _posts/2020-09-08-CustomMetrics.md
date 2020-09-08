@@ -70,10 +70,10 @@ print_all_metrics()
   <tr>
   </table>
 
-```
+<code>
 metric = weighted_auc()
 learn = Learner(data, arch, metrics= [metric] )
-```
+</code>
 
 
 
