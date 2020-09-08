@@ -37,6 +37,7 @@ from kaggle_fastai_custom_metrics.kfcm import *
 
 print_all_metrics()
 ```
+
 <table style="width:100%">
   <tr>
     <th>Competition URL</th>
