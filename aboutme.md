@@ -12,17 +12,17 @@ subtitle: If you want to know me;
 
 I am a final year undergraduate student pursuing Bachelor of Technology in "Information Technology".
 
-Skilled in Data Structures, Algorithms Analysis, Data Analysis, Data Visualization. 
+**Skilled in Data Structures, Algorithms Analysis, Data Analysis, Data Visualization.** 
 
-My area of interest includes Computer Vision and Natural Language Processing.
+**My area of interest includes Computer Vision and Natural Language Processing.**
 
 I love to participate in Data science competitons and I am very active on Kaggle.
 
 I am a Kaggle Notebooks Master (Ranked 120 among 137,968 kagglers in the world,) and Kaggle Datasets Expert. 
 
-With 1 gold , 9 silver, 10 bronze medal on kaggle; I am ranked in Top 1 % among kagglers .
+**With 1 gold , 9 silver, 10 bronze medal on kaggle; I am ranked in Top 1 % among kagglers.**
 
-I have also released a python package on pypi for Kaggle Competition Metrics for fastaiv1.
+**I have also released a python package on pypi for [Kaggle Competition Metrics](https://pypi.org/project/kaggle-fastai-custom-metrics/) for fastaiv1.**
 
 I also have a AI Engineering Specialization Professional Certificate from IBM.
 
