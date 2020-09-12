@@ -72,7 +72,7 @@ print_all_metrics()
     <td>GAP_vector</td>
   </tr>
   <tr>
-  </table>
+  
 
 
 
