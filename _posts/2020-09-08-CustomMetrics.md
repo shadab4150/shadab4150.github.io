@@ -42,7 +42,7 @@ learn = Learner(data, arch, metrics= [metric] );
 print_all_metrics()
 ```
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Competition URL</th>
     <th>Metric</th> 
