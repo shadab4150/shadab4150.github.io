@@ -34,7 +34,11 @@ pip install .
 
 ```python
 from kaggle_fastai_custom_metrics.kfcm import *
+metric = weighted_auc();
+learn = Learner(data, arch, metrics= [metric] );
+```
 
+```
 print_all_metrics()
 ```
 
@@ -70,10 +74,7 @@ print_all_metrics()
   <tr>
   </table>
 
-```
-metric = weighted_auc();
-learn = Learner(data, arch, metrics= [metric] );
-```
+
 
 
 
