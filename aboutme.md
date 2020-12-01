@@ -10,7 +10,7 @@ subtitle: If you want to know me;
 <center><img src="https://raw.githubusercontent.com/shadab4150/shadab4150.github.io/master/img/5.jpg" width="400" height="250"></center>
 
 
-I am a Graduate student pursuing Masters of Technology In Computational Mathematics.".
+I am a Graduate student pursuing Masters of Technology In "Computational Mathematics.".
 
 **Skilled in Data Structures, Algorithms Analysis, Data Analysis, Data Visualization, Computer Vision and NLP.** 
 
