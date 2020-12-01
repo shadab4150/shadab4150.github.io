@@ -10,9 +10,9 @@ subtitle: If you want to know me;
 <center><img src="https://raw.githubusercontent.com/shadab4150/shadab4150.github.io/master/img/5.jpg" width="400" height="250"></center>
 
 
-I am a final year undergraduate student pursuing Bachelor of Technology in "Information Technology".
+I am a Graduate student pursuing Masters of Technology In Computational Mathematics.".
 
-**Skilled in Data Structures, Algorithms Analysis, Data Analysis, Data Visualization.** 
+**Skilled in Data Structures, Algorithms Analysis, Data Analysis, Data Visualization, Computer Vision and NLP.** 
 
 **My area of interest includes Computer Vision and Natural Language Processing.**
 
@@ -25,8 +25,6 @@ I am a Kaggle Notebooks Master (Ranked 120 among 137,968 kagglers in the world,)
 **I have also released a python package on pypi for [Kaggle Competition Metrics](https://pypi.org/project/kaggle-fastai-custom-metrics/) for fastaiv1.**
 
 I also have a AI Engineering Specialization Professional Certificate from IBM.
-
-I am open to oppurtunities, and my resume is attached to the profile  
 
 * Here is my linkedin [**profile**](https://www.linkedin.com/in/shadab-sayeed/)
 
