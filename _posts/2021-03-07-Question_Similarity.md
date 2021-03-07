@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: Duplicate Question Classification Using Transformers Bert
+subtitle: Finding How similar two questions are, Classifing are they duplicate.
+bigimg: "https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg"
+tags: [NLP, Semantic Similarity, tranformers]
+---
 ## Duplicate Question Classification Bert
 
 ## Question Semantic similarity 
