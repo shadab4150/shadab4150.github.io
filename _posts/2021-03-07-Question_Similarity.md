@@ -11,6 +11,8 @@ tags: [NLP, Semantic Similarity, tranformers]
 
 * Finding How similar two questions are ; Classifing are they duplicate
 
+[**Notebook**](https://github.com/shadab4150/2010_Personal_Practice_Projects/blob/main/NLP_Competitions/Duplicate_Question_Classification_Bert/Duplicate_Question_Classification_Bert.md)
+
 ## Helpful Downloads and Installation
 
 ### Below is fork of [**abhishek thakur's**](https://github.com/abhishekkrthakur/tez)
