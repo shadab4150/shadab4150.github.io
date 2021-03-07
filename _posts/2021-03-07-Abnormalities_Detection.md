@@ -15,6 +15,8 @@ tags: [chest,vision , object detection]
 
 The dataset comprises 18,000 postero-anterior (PA) CXR scans in DICOM format, which were de-identified to protect patient privacy. All images were labeled by a panel of experienced radiologists for the presence of 14 critical radiographic findings as listed below:
 
+* Dataset Source : [**vindr.ai**](https://vindr.ai/datasets/cxr)
+
 ```
 0 - Aortic enlargement
 1 - Atelectasis
